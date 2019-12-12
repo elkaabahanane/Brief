@@ -129,9 +129,8 @@
 }
 
 .parties {
-    width: 1170px;
+    justify-content: center;
     display: flex;
-    margin: 0 auto;
 }
 
 .partie {
@@ -139,7 +138,7 @@
     margin: 60px 0;
     padding: 0 15px;
     letter-spacing: 0.08em;
-    width: 390px;
+    width: 370px;
     height: 335px;
 }
 
